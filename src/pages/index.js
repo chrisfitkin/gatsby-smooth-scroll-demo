@@ -7,7 +7,6 @@ import SEO from "../components/seo"
 
 const IndexPage = () => (
   <Layout>
-    <a id="top" />
     <SEO title="Home" keywords={[`gatsby`, `application`, `react`]} />
     <h1>Smooth Scrolling Links</h1>
     <ul>
@@ -29,6 +28,12 @@ const IndexPage = () => (
     <ul>
       <li>
         <Link to="/page-2/">Go to page 2</Link>
+      </li>
+      <li>
+        How to:{" "}
+        <a href="https://medium.com/@chrisfitkin/how-to-smooth-scroll-links-in-gatsby-3dc445299558">
+          https://medium.com/@chrisfitkin/how-to-smooth-scroll-links-in-gatsby-3dc445299558
+        </a>
       </li>
     </ul>
 
