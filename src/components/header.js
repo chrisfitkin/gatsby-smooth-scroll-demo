@@ -9,6 +9,7 @@ const Header = ({ siteTitle }) => (
       marginBottom: `1.45rem`,
     }}
   >
+    <a id="top" />
     <div
       style={{
         margin: `0 auto`,
