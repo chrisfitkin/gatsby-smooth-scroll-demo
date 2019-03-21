@@ -1,4 +1,5 @@
 module.exports = {
+  pathPrefix: "/gatsby-smooth-scroll-demo",
   siteMetadata: {
     title: `Gatsby Smooth Scroll Demo`,
     description: `Smooth scrolling Links with GatsbyJS.`,

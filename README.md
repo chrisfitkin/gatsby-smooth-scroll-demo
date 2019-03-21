@@ -1,6 +1,6 @@
 # Gatsby Smooth Scroll Demo
 
-Demonstrates smooth scrolling Link tags in Gatsby JS
+Demonstrates smooth scrolling Link tags in GatsbyJS
 
 **Demo:**
 
