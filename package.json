@@ -20,6 +20,7 @@
     "smooth-scroll": "^16.0.3"
   },
   "devDependencies": {
+    "gh-pages": "^2.0.1",
     "prettier": "^1.16.4"
   },
   "keywords": [
